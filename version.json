@@ -1,7 +1,7 @@
 {
-	"version": "0.21.0",
-	"minNativeVersion": "0.21.0",
-	"url": "https://github.com/xylish7/hachicap-releases/releases/download/v0.21.0/dist.zip",
-	"checksum": "d9f991c1047b716238add22951a8323f48bad8608af0a5b45c0d15b574cd9fc4",
-	"notes": "Release v0.21.0"
+	"version": "0.22.0",
+	"minNativeVersion": "0.22.0",
+	"url": "https://github.com/xylish7/hachicap-releases/releases/download/v0.22.0/dist.zip",
+	"checksum": "c08332cc32534b83648a741d3b8e568a79ed0b29283c69d59a8f99bdb941fa47",
+	"notes": "Release v0.22.0"
 }
